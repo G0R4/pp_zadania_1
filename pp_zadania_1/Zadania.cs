@@ -17,10 +17,16 @@ class Zadania
         zadanie_4.PrintSumaDwochLiczb(); 
 
         Zadanie_5  zadanie_5 = new Zadanie_5();
-        zadanie_5.PrintAreaRectangle(); */
+        zadanie_5.PrintAreaRectangle(); 
 
         Zadanie_6 zadanie_6 = new Zadanie_6();
-        zadanie_6.PrintObjetoscKuli();
+        zadanie_6.PrintObjetoscKuli(); 
+
+        Zadanie_7 zadanie_7 = new Zadanie_7();
+        zadanie_7.PrintWynikDzieleniaBezReszty(); */
+
+        Zadanie_8 zadanie_8 = new Zadanie_8();
+        zadanie_8.PrintWynikDzieleniaZReszta();
     }
 
 }
