@@ -10,11 +10,15 @@ namespace pp_zadania_1
     {
         float a;
         float b;
+
+
         public void PrintWynikDzieleniaZReszta()
         {
             GetNumbersFromUser();
-            Console.WriteLine(DzielenieLiczb());
+            Console.WriteLine(PodzielZReszta());
         }
+
+
         private void GetNumbersFromUser()
         {
             Console.WriteLine("podaj liczbę a: ");
@@ -22,9 +26,11 @@ namespace pp_zadania_1
             Console.WriteLine("podaj liczbę b: ");
             b = float.Parse(Console.ReadLine());
         }
-        private float DzielenieLiczb()
+
+
+        private float PodzielZReszta()
         {
-            return a / b;
+            return a % b;
         }
     }
 }

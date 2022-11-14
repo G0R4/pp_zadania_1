@@ -23,13 +23,16 @@ class Zadania
         zadanie_6.PrintObjetoscKuli(); 
 
         Zadanie_7 zadanie_7 = new Zadanie_7();
-        zadanie_7.PrintWynikDzieleniaBezReszty(); 
+        zadanie_7.PrintWynikDzieleniaBezReszty();
 
         Zadanie_8 zadanie_8 = new Zadanie_8();
-        zadanie_8.PrintWynikDzieleniaZReszta(); */
+        zadanie_8.PrintWynikDzieleniaZReszta(); 
 
         Zadanie_9 zadanie_9 = new Zadanie_9();
-        zadanie_9.PrintLiczbaParzysta();
+        zadanie_9.PrintLiczbaParzysta(); */
+
+        Zadanie_10 zadanie_9 = new Zadanie_10();
+        zadanie_9.PrintLiczbaParzystaNieparzysta();
     }
 
 }

@@ -10,11 +10,15 @@ namespace pp_zadania_1
     {
         int a;
         int b;
+
+
         public void PrintWynikDzieleniaBezReszty()
         {
             GetNumbersFromUser();
-            Console.WriteLine(DzielenieLiczb());
+            Console.WriteLine(PodzielBezReszty());
         }
+
+
         private void GetNumbersFromUser()
         {
             Console.WriteLine("podaj liczbę a: ");
@@ -22,7 +26,9 @@ namespace pp_zadania_1
             Console.WriteLine("podaj liczbę b: ");
             b = int.Parse(Console.ReadLine());
         }
-        private int DzielenieLiczb()
+
+
+        private int PodzielBezReszty()
         {
             return a / b;
         }
