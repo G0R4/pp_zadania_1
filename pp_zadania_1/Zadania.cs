@@ -29,10 +29,16 @@ class Zadania
         zadanie_8.PrintWynikDzieleniaZReszta(); 
 
         Zadanie_9 zadanie_9 = new Zadanie_9();
-        zadanie_9.PrintLiczbaParzysta(); */
+        zadanie_9.PrintLiczbaParzysta(); 
 
         Zadanie_10 zadanie_9 = new Zadanie_10();
-        zadanie_9.PrintLiczbaParzystaNieparzysta();
+        zadanie_9.PrintLiczbaParzystaNieparzysta(); 
+
+        Zadanie_11 zadanie_11 = new Zadanie_11();
+        zadanie_11.PrintLiczbyOdNajmniejszejDoNajwiekszej(); */
+
+        Zadanie_12 zadanie_12 = new Zadanie_12();
+        zadanie_12.PrintCzyTrojkatProstokatny();
     }
 
 }
