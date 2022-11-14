@@ -35,10 +35,13 @@ class Zadania
         zadanie_9.PrintLiczbaParzystaNieparzysta(); 
 
         Zadanie_11 zadanie_11 = new Zadanie_11();
-        zadanie_11.PrintLiczbyOdNajmniejszejDoNajwiekszej(); */
+        zadanie_11.PrintLiczbyOdNajmniejszejDoNajwiekszej(); 
 
         Zadanie_12 zadanie_12 = new Zadanie_12();
-        zadanie_12.PrintCzyTrojkatProstokatny();
+        zadanie_12.PrintCzyTrojkatProstokatny(); */
+
+        Zadanie_13 zadanie_13 = new Zadanie_13();
+        zadanie_13.PrintRozwiazanieRowanania();
     }
 
 }
