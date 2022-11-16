@@ -44,13 +44,16 @@ class Zadania
         zadanie_13.PrintRozwiazanieRowanania(); 
 
         Zadanie_14 zadanie_14 = new Zadanie_14();
-        zadanie_14.PrintCzyLiczbaJestDodatniaZeremUjemna();
+        zadanie_14.PrintCzyLiczbaJestDodatniaZeremUjemna(); 
 
         Zadanie_15 zadanie_15 = new Zadanie_15();
-        zadanie_15.PrintOdZeroDoTysiac(); */
+        zadanie_15.PrintOdZeroDoTysiac(); 
 
         Zadanie_16 zadanie_16 = new Zadanie_16();
-        zadanie_16.PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika();
+        zadanie_16.PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika(); */
+
+        Zadanie_17 zadanie_17 = new Zadanie_17();
+        zadanie_17.PrintWypiszCoDrugaLiczbaGdzieKrancoweLiczbySaPodanePrzezUzytkownika(); 
     }
 
 }

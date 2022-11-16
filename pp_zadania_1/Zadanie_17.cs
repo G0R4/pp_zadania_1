@@ -6,20 +6,19 @@ using System.Threading.Tasks;
 
 namespace pp_zadania_1
 {
-    internal class Zadanie_16
+    internal class Zadanie_17
     {
-
         int a;
-        int b;
+        int b;    
 
-
-        public void PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika()
+        public void PrintWypiszCoDrugaLiczbaGdzieKrancoweLiczbySaPodanePrzezUzytkownika()
         {
             GetNumbersFromUser();
             Console.WriteLine();
-            for (int i = a; i <= b; i++)
+            for (int i = a; i <= b; i += 2)
             {
                 Console.WriteLine(i);
+
             }
         }
 
@@ -30,6 +29,7 @@ namespace pp_zadania_1
             a = int.Parse(Console.ReadLine());
             Console.WriteLine("podaj liczbę b: ");
             b = int.Parse(Console.ReadLine());
-        }      
+        }
     }
-}
+} 
+
