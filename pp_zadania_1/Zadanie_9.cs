@@ -27,8 +27,7 @@ namespace pp_zadania_1
 
 
         private string CzyLiczbaParzysta()
-        {
-            n.ToString();
+        {          
             if (n % 2 == 0)
                 return $"Liczba {n} jest parzysta";
             else

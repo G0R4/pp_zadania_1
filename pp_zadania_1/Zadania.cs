@@ -38,10 +38,19 @@ class Zadania
         zadanie_11.PrintLiczbyOdNajmniejszejDoNajwiekszej(); 
 
         Zadanie_12 zadanie_12 = new Zadanie_12();
-        zadanie_12.PrintCzyTrojkatProstokatny(); */
+        zadanie_12.PrintCzyTrojkatProstokatny(); 
 
         Zadanie_13 zadanie_13 = new Zadanie_13();
-        zadanie_13.PrintRozwiazanieRowanania();
+        zadanie_13.PrintRozwiazanieRowanania(); 
+
+        Zadanie_14 zadanie_14 = new Zadanie_14();
+        zadanie_14.PrintCzyLiczbaJestDodatniaZeremUjemna();
+
+        Zadanie_15 zadanie_15 = new Zadanie_15();
+        zadanie_15.PrintOdZeroDoTysiac(); */
+
+        Zadanie_16 zadanie_16 = new Zadanie_16();
+        zadanie_16.PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika();
     }
 
 }
