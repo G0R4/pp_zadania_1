@@ -24,11 +24,11 @@ namespace pp_zadania_1
         private void GetNumbersFromUser()
         {
             
-            Console.WriteLine("podaj pierwszą przyprostokątną trójkąta: ");
+            Console.WriteLine("podaj bok a trójkąta: ");
             a = float.Parse(Console.ReadLine());
-            Console.WriteLine("podaj drugą przyprostokątną trójkąta: ");
+            Console.WriteLine("podaj bok b trójkąta: ");
             b = float.Parse(Console.ReadLine());
-            Console.WriteLine("podaj przeciwprostokątną trójkąta: ");
+            Console.WriteLine("podaj bok c trójkąta: ");
             c = float.Parse(Console.ReadLine());
         }
 

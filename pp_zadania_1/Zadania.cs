@@ -50,10 +50,21 @@ class Zadania
         zadanie_15.PrintOdZeroDoTysiac(); 
 
         Zadanie_16 zadanie_16 = new Zadanie_16();
-        zadanie_16.PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika(); */
+        zadanie_16.PrintWypiszCiagLiczbGdzieKrancoweLiczbySaPodanePrzezUzytkownika(); 
 
         Zadanie_17 zadanie_17 = new Zadanie_17();
         zadanie_17.PrintWypiszCoDrugaLiczbaGdzieKrancoweLiczbySaPodanePrzezUzytkownika(); 
+
+        Zadanie_18 zadanie_18 = new Zadanie_18();
+        zadanie_18.PrintRownanieYRownaSieTrzyX(); 
+
+        Zadanie_19 zadanie_19 = new Zadanie_19();
+        zadanie_19.PrintIleLiczbParzystychZDziesieciuPodanychPrzezUzytkownika(); */
+
+        Zadanie_20 zadanie_20 = new Zadanie_20();
+        zadanie_20.PrintIleLiczbParzystychZTysiacaPodanychPrzezUzytkownika();
+
+
     }
 
 }
