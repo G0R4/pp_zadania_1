@@ -59,10 +59,25 @@ class Zadania
         zadanie_18.PrintRownanieYRownaSieTrzyX(); 
 
         Zadanie_19 zadanie_19 = new Zadanie_19();
-        zadanie_19.PrintIleLiczbParzystychZDziesieciuPodanychPrzezUzytkownika(); */
+        zadanie_19.PrintIleLiczbParzystychZDziesieciuPodanychPrzezUzytkownika(); 
 
         Zadanie_20 zadanie_20 = new Zadanie_20();
-        zadanie_20.PrintIleLiczbParzystychZTysiacaPodanychPrzezUzytkownika();
+        zadanie_20.PrintIleLiczbParzystychZTysiacaPodanychPrzezUzytkownika(); 
+
+        Zadanie_21 zadanie_21 = new Zadanie_21();
+        zadanie_21.PrintPolChoinka();
+
+        Zadanie_22 zadanie_22 = new Zadanie_22();
+        zadanie_22.PrintTabliczkaMnozenia(); 
+
+        Zadanie_23 zadanie_23 = new Zadanie_23();
+        zadanie_23.PirntAlfabet(); 
+
+        Zadanie_24 zadanie_24 = new Zadanie_24();
+        zadanie_24.PrintDowolnaIloscLiczbIleParzystych(); */
+
+        Zadanie_25 zadanie_25 = new Zadanie_25();
+        zadanie_25.PrintDowolnaIloscLiczbSuma();
 
 
     }
