@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace pp_zadania_1
 {
+
+
     internal class Zadanie_22
     {
+
+
         public void PrintTabliczkaMnozenia()
         {
             for (int i = 1; i <= 10; i++)

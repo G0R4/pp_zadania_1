@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_1\\pp_zadania_1.csproj",
-      "projectName": "pp_zadania_1",
-      "projectPath": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_1\\pp_zadania_1.csproj",
+      "projectUniqueName": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_2\\pp_zadania_2\\pp_zadania_2.csproj",
+      "projectName": "pp_zadania_2",
+      "projectPath": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_2\\pp_zadania_2\\pp_zadania_2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_1\\obj\\",
+      "outputPath": "D:\\Programowanie\\Studia\\pp_zadania\\pp_zadania_2\\pp_zadania_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

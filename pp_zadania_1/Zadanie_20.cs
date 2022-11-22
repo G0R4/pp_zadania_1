@@ -9,6 +9,9 @@ namespace pp_zadania_1
     internal class Zadanie_20
     {
         int licznik = 0;
+
+
+
         public void PrintIleLiczbParzystychZTysiacaPodanychPrzezUzytkownika()
         {
             for(int i = 0; i <= 1000; i++)

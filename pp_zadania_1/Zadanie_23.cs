@@ -8,6 +8,8 @@ namespace pp_zadania_1
 {
     internal class Zadanie_23
     {
+
+
         public void PirntAlfabet()
         {
             for (char i = 'A'; i <= 'Z'; i++)

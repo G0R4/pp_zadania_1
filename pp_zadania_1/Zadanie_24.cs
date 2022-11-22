@@ -11,6 +11,7 @@ namespace pp_zadania_1
         int licznik = 0;
         string liczba;
 
+
         public void PrintDowolnaIloscLiczbIleParzystych()           
         {
             liczba = Console.ReadLine();

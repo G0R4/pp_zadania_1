@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace pp_zadania_1
 {
+
     internal class Zadanie_25
     {
         int suma = 0;
