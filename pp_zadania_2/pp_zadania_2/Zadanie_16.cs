@@ -10,6 +10,7 @@ namespace pp_zadania_2
     {
         bool sukces;
 
+
         public void PrintZadanieSzesnaste()
         {
             do

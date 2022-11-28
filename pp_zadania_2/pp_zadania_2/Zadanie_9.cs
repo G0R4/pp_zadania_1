@@ -18,8 +18,9 @@ namespace pp_zadania_2
             input = Console.ReadLine();
             while (input != "STOP")
             {
-
-                liczby.Add(float.Parse(input));
+                float liczba = float.Parse(input);
+                if (liczba <= 0) break;
+                liczby.Add(liczba);
                 input = Console.ReadLine();
             }
 
@@ -29,6 +30,7 @@ namespace pp_zadania_2
             }
 
             Console.WriteLine(Math.Pow(iloczyn, 1.0 / liczby.Count));
+
         }
     }
 }

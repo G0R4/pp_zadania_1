@@ -24,7 +24,7 @@ namespace pp_zadania_2
                 suma += liczby[i];
             }
 
-            Console.WriteLine(suma / liczby.Length);
+            Console.WriteLine((int)suma / liczby.Length);
         }
     }
 }

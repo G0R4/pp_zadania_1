@@ -14,7 +14,7 @@
             zadanie_3.PrintLiczbyNaMiejscachParzystych(); 
 
             Zadanie_4 zadanie_4 = new Zadanie_4();
-            zadanie_4.PrintWitajImiona(); 
+            zadanie_4.PrintWitajImiona();  
 
             Zadanie_5 zadanie_5 = new Zadanie_5();
             zadanie_5.PrintSredniaArytmetycznaFloat(); 
@@ -29,12 +29,12 @@
             zadanie_8.PrintZadanieOsme(); 
 
             Zadanie_9 zadanie_9 = new Zadanie_9();
-            zadanie_9.PrintZadanieDziewiate(); 
+            zadanie_9.PrintZadanieDziewiate();*/ 
 
             Zadanie_10 zadanie_10 = new Zadanie_10();
             zadanie_10.PrintKolkoIKrzyzyk(); 
 
-            Zadanie_11 zadanie_11 = new Zadanie_11();
+            /*Zadanie_11 zadanie_11 = new Zadanie_11();
             zadanie_11.PrintKolkoIKrzyzykDwa(); 
 
             Zadanie_12 zadanie_12 = new Zadanie_12();
@@ -47,13 +47,10 @@
             zadanie_14.PrintZadanieCzternaste(); 
 
             Zadanie_15 zadanie_15 = new Zadanie_15();
-            zadanie_15.PrintZadaniePietnaste(); */
+            zadanie_15.PrintZadaniePietnaste(); 
 
             Zadanie_16 zadanie_16 = new Zadanie_16();
-            zadanie_16.PrintZadanieSzesnaste();
-
-
-
+            zadanie_16.PrintZadanieSzesnaste(); */
 
         }
     }
